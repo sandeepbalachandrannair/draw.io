@@ -7,6 +7,33 @@
         <mxCell id="qShjG75aXaTEDt3JSJMz-1" value="Design Hub and Spoke model&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="50" width="390" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.access_control;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_cache;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.bitbucket_code_source;" vertex="1" parent="1">
+          <mxGeometry x="222" y="420" width="42.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_marketplace;" vertex="1" parent="1">
+          <mxGeometry x="410" y="460" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_marketplace;" vertex="1" parent="1">
+          <mxGeometry x="480" y="390" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" vertex="1" parent="1">
+          <mxGeometry x="473" y="450" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_active_directory;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qAYnwaGidoDhkcFdR23K-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_marketplace;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="40" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
